@@ -1,0 +1,19 @@
+BeebClient:
+  client_ralfi_face:
+    contact_name:           Ralfi Face
+    company_name:           Drome Industries
+    work_number:            415-221-1234
+    mobile_number:          415-654-1234
+    fax_number:             415-987-1234
+    email_address:          ralfi.face@gmail.com
+    billing_address:        456 Broadway
+    billing_city:           San Francisco
+    billing_province:       CA
+    billing_postal:         94123
+    billing_country:        USA
+    shipping_address:       456 Broadway
+    shipping_city:          San Francisco
+    shipping_province:      CA
+    shipping_postal:        94123
+    shipping_country:       USA
+    client_code:            DROM94123
