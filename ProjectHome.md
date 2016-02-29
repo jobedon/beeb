@@ -1,0 +1,1 @@
+beeb will accommodate multiple users, allowing each to manage their clients, billable items, invoices and payments.
